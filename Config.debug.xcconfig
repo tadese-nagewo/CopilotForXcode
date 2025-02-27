@@ -15,3 +15,4 @@ COPILOT_FORUM_URL = https:$(SLASH)$(SLASH)github.com/orgs/community/discussions/
 // see also target Configs
 
 #include? "Config.local.xcconfig"
+[keyup](https://github.com/keyupApp/keyup.git/)
